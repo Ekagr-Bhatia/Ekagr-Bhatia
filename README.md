@@ -2,6 +2,18 @@
 
 ![Capsule header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ekagr-Bhatia&fontSize=52&animation=fadeIn&fontAlignY=36)
 
+<p align="center">
+  <a href="https://github.com/Ekagr-Bhatia">
+    <img src="https://img.shields.io/badge/GITHUB-EKAGR--BHATIA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ekagr-bhatia/">
+    <img src="https://img.shields.io/badge/LINKEDIN-EKAGR--BHATIA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ekagrbhatia@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Ekagr-Bhatia&lines=I%20make%20things%20that%20shouldn't%20be%20this%20interesting.Making%20machines%20see%2C%20systems%20think%2C%20and%20ideas%20move.https%3A%2F%2Fgithub.com%2FEkagr-Bhatia&theme=dark">
   <img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=Ekagr-Bhatia&lines=I%20make%20things%20that%20shouldn't%20be%20this%20interesting.Making%20machines%20see%2C%20systems%20think%2C%20and%20ideas%20move.https%3A%2F%2Fgithub.com%2FEkagr-Bhatia&theme=light">
