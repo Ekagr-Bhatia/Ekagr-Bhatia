@@ -12,11 +12,11 @@
 
 ![owl streak](https://coolreadme.xyz/api/owl-card?user=Ekagr-Bhatia)
 
-### More
+### Well...
 
 ![Developer joke](https://readme-jokes.vercel.app/api?hideBorder=true&theme=default)
 
-### Workflow
+### Ask Away! (Hint: What is my stack?)
 
 ![AI workflow](https://coolreadme.xyz/api/ai-card?tool=claude&role=co-pilot&since=2024&tagline=I%20make%20things%20that%20shouldn't%20be%20this%20interesting.Making%20machines%20see%2C&user=Ekagr-Bhatia)
 
