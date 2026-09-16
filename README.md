@@ -23,9 +23,15 @@
 
 ![Profile stats card](https://kgnio-profile-card.vercel.app/api/card?user=Ekagr-Bhatia&theme=midnight)
 
-### More
+### Quote
 
 ![Programming quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ekagr-Bhatia/Ekagr-Bhatia/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ekagr-Bhatia/Ekagr-Bhatia/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ![Ekagr-Bhatia cinematic](https://coolreadme.xyz/api/cinematic?user=Ekagr-Bhatia&status=AI+Developer&focus=Artificial+Intelligence+%7C+Software+Developer&style=poster&align=left&tone=ink)
 
