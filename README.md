@@ -12,13 +12,6 @@
 
 ![owl streak](https://coolreadme.xyz/api/owl-card?user=Ekagr-Bhatia)
 
-### Well...
-
-![Developer joke](https://readme-jokes.vercel.app/api?hideBorder=true&theme=default)
-
-### Ask Away! (Hint: What is my stack?)
-
-![AI workflow](https://coolreadme.xyz/api/ai-card?tool=claude&role=co-pilot&since=2024&tagline=I%20make%20things%20that%20shouldn't%20be%20this%20interesting.Making%20machines%20see%2C&user=Ekagr-Bhatia)
 
 ### Stack
 
@@ -37,4 +30,4 @@
 ![Ekagr-Bhatia cinematic](https://coolreadme.xyz/api/cinematic?user=Ekagr-Bhatia&status=AI+Developer&focus=Artificial+Intelligence+%7C+Software+Developer&style=poster&align=left&tone=ink)
 
 
-<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/Ekagr-Bhatia) — one-click GitHub README cards.</sub>
+
