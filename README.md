@@ -15,7 +15,7 @@
 
 ### Stack
 
-![Skill icons](https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnodejs%2Cgit%2Cpython%2Cjava%2Ctensorflow%2Cpytorch%2Cc%2Ccpp%2Chtml%2Ccss%2Cbootstrap%2Cflask%2Cexpress%2Cmongo%2Cpostgres%2Cgithub%2Clinux%2Cbash%2Clatex%2Cvue%2Cangular&perline=10&theme=dark)
+![Skill icons](https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnodejs%2Cgit%2Cpython%2Cjava%2Ctensorflow%2Cpytorch%2Cc%2Ccpp%2Chtml%2Ccss%2Cbootstrap%2Cflask%2Cexpress%2Cmongo%2Cpostgres%2Cgithub%2Clinux%2Cbash%2Clatex%2Cvue%2Cangular&perline=15&theme=dark)
 
 ### Stats
 
