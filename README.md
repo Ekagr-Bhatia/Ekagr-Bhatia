@@ -27,6 +27,10 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
+  <img alt="GitHub trophies" src="./trophy.svg" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/stats-card?user=Ekagr-Bhatia&theme=dark">
     <img alt="Ekagr-Bhatia GitHub stats" src="https://coolreadme.xyz/api/stats-card?user=Ekagr-Bhatia&theme=light">
@@ -40,6 +44,12 @@
 </p>
 
 <br/>
+
+### 🌐 3D Contribution Graph
+
+![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
+
+<br/><br/>
 
 ### 🐍 Contribution Graph
 
