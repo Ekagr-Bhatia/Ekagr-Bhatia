@@ -29,16 +29,14 @@
 
 <table width="100%">
 <tr>
-<td width="48%" valign="top" align="left">
+<td width="50%" valign="middle" align="left">
 
 I'm a **Computer Science student** exploring AI/ML and software engineering, but mostly I'm just curious about how things work — and what happens when I try to build them myself.
 <br/><br/>
 I enjoy taking ideas down unexpected rabbit holes and turning them into projects, whether that's an AI system, a full-stack application, or something I absolutely did not need to spend a weekend building.
-<br/><br/>
-⚡ <i>I like difficult problems, questionable side quests, and the beautiful moment when the code finally works.</i>
 
 </td>
-<td width="52%" valign="top">
+<td width="50%" valign="middle">
 
 <table width="100%">
 <tr>
@@ -47,9 +45,9 @@ I enjoy taking ideas down unexpected rabbit holes and turning them into projects
 <td align="center" width="33%">🤖 <b>Generative AI</b><br/><sub>LLMs · RAG · Agents</sub></td>
 </tr>
 <tr>
-<td align="center">☁️ <b>Cloud & MLOps</b><br/><sub>Deploy · Monitor · Scale</sub></td>
-<td align="center">🧩 <b>Full Stack Dev</b><br/><sub>End-to-end solutions</sub></td>
-<td align="center">📊 <b>Data & Analytics</b><br/><sub>Turning data into insight</sub></td>
+<td align="center" width="33%">☁️ <b>Cloud & MLOps</b><br/><sub>Deploy · Monitor · Scale</sub></td>
+<td align="center" width="33%">🧩 <b>Full Stack Dev</b><br/><sub>End-to-end solutions</sub></td>
+<td align="center" width="33%">📊 <b>Data & Analytics</b><br/><sub>Turning data into insight</sub></td>
 </tr>
 </table>
 
@@ -71,6 +69,91 @@ I enjoy taking ideas down unexpected rabbit holes and turning them into projects
 ### 🛠️ Tech Stack
 
 ![Skill icons](https://skillicons.dev/icons?i=js,ts,react,nodejs,git,python,java,tensorflow,pytorch,c,cpp,html,css,bootstrap,flask,express,mongo,postgres,github,linux,bash,latex,vue,angular&perline=12&theme=dark)
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+<td valign="top" width="17%" align="center">
+
+**AI / ML**
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-0a0f1e?style=flat-square&logo=python&logoColor=2ec5ff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0a0f1e?style=flat-square&logo=pytorch&logoColor=ee4c2c)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0a0f1e?style=flat-square&logo=tensorflow&logoColor=ff6f00)
+![scikit-learn](https://img.shields.io/badge/-Scikit_learn-0a0f1e?style=flat-square&logo=scikitlearn&logoColor=f7931e)
+![OpenCV](https://img.shields.io/badge/-OpenCV-0a0f1e?style=flat-square&logo=opencv&logoColor=5c3ee8)
+![HuggingFace](https://img.shields.io/badge/-Hugging_Face-0a0f1e?style=flat-square&logo=huggingface&logoColor=ffcc4d)
+
+</td>
+<td valign="top" width="17%" align="center">
+
+**Generative AI**
+
+<br/>
+
+![LLMs](https://img.shields.io/badge/-LLMs-0a0f1e?style=flat-square&logo=openai&logoColor=2ec5ff)
+![LangChain](https://img.shields.io/badge/-LangChain-0a0f1e?style=flat-square&logo=chainlink&logoColor=c084fc)
+![RAG](https://img.shields.io/badge/-RAG-0a0f1e?style=flat-square&logo=databricks&logoColor=7aa2ff)
+![Prompt Eng.](https://img.shields.io/badge/-Prompt_Engineering-0a0f1e?style=flat-square&logo=openai&logoColor=a78bfa)
+![Transformers](https://img.shields.io/badge/-Transformers-0a0f1e?style=flat-square&logo=huggingface&logoColor=ffcc4d)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-0a0f1e?style=flat-square&logo=openai&logoColor=2ec5ff)
+
+</td>
+<td valign="top" width="16%" align="center">
+
+**Backend & APIs**
+
+<br/>
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-0a0f1e?style=flat-square&logo=fastapi&logoColor=05998b)
+![Flask](https://img.shields.io/badge/-Flask-0a0f1e?style=flat-square&logo=flask&logoColor=ffffff)
+![REST](https://img.shields.io/badge/-REST_APIs-0a0f1e?style=flat-square&logo=fastapi&logoColor=2ec5ff)
+![Streamlit](https://img.shields.io/badge/-Streamlit-0a0f1e?style=flat-square&logo=streamlit&logoColor=ff4b4b)
+
+</td>
+<td valign="top" width="17%" align="center">
+
+**Frontend**
+
+<br/>
+
+![React](https://img.shields.io/badge/-React-0a0f1e?style=flat-square&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0a0f1e?style=flat-square&logo=typescript&logoColor=3178c6)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0a0f1e?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Vite](https://img.shields.io/badge/-Vite-0a0f1e?style=flat-square&logo=vite&logoColor=646cff)
+![Next.js](https://img.shields.io/badge/-Next.js-0a0f1e?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+
+</td>
+<td valign="top" width="16%" align="center">
+
+**Databases**
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-0a0f1e?style=flat-square&logo=mongodb&logoColor=47a248)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-0a0f1e?style=flat-square&logo=postgresql&logoColor=4169e1)
+![Pinecone](https://img.shields.io/badge/-Pinecone-0a0f1e?style=flat-square&logo=pinecone&logoColor=2ec5ff)
+![MySQL](https://img.shields.io/badge/-MySQL-0a0f1e?style=flat-square&logo=mysql&logoColor=4479a1)
+
+</td>
+<td valign="top" width="17%" align="center">
+
+**Cloud & DevOps**
+
+<br/>
+
+![AWS](https://img.shields.io/badge/-AWS-0a0f1e?style=flat-square&logo=amazonaws&logoColor=ff9900)
+![Vercel](https://img.shields.io/badge/-Vercel-0a0f1e?style=flat-square&logo=vercel&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git_&_GitHub-0a0f1e?style=flat-square&logo=github&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-0a0f1e?style=flat-square&logo=linux&logoColor=fcc624)
+![VS Code](https://img.shields.io/badge/-VS_Code-0a0f1e?style=flat-square&logo=visualstudiocode&logoColor=2ec5ff)
+
+</td>
+</tr>
+</table>
 
 <hr/>
 
