@@ -25,6 +25,40 @@
 
 <hr/>
 
+### 👨‍💻 About Me
+
+<table width="100%">
+<tr>
+<td width="48%" valign="top" align="left">
+
+I'm a **Computer Science student** exploring AI/ML and software engineering, but mostly I'm just curious about how things work — and what happens when I try to build them myself.
+<br/><br/>
+I enjoy taking ideas down unexpected rabbit holes and turning them into projects, whether that's an AI system, a full-stack application, or something I absolutely did not need to spend a weekend building.
+<br/><br/>
+⚡ <i>I like difficult problems, questionable side quests, and the beautiful moment when the code finally works.</i>
+
+</td>
+<td width="52%" valign="top">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">🧠 <b>Machine Learning</b><br/><sub>Models that learn</sub></td>
+<td align="center" width="33%">👁️ <b>Computer Vision</b><br/><sub>Image understanding</sub></td>
+<td align="center" width="33%">🤖 <b>Generative AI</b><br/><sub>LLMs · RAG · Agents</sub></td>
+</tr>
+<tr>
+<td align="center">☁️ <b>Cloud & MLOps</b><br/><sub>Deploy · Monitor · Scale</sub></td>
+<td align="center">🧩 <b>Full Stack Dev</b><br/><sub>End-to-end solutions</sub></td>
+<td align="center">📊 <b>Data & Analytics</b><br/><sub>Turning data into insight</sub></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
 ### 🚀 Featured Projects
 
 <picture>
